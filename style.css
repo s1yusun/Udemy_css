@@ -1,9 +1,7 @@
-h1 {
+.green {
     color: green;
-    font-size: 25px;
 }
 
-h2 {
+.red {
     color: red;
-    font-size: 50px;
 }
